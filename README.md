@@ -1,4 +1,4 @@
 omr
 ===
 
-Part II Project 2012 - OMR
+University of Cambridge Part II Project - Optical Music Recognition
