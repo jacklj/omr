@@ -6,8 +6,12 @@
 *.ear
 
 
-# Eclipse specific settings
+# Eclipse specific settings #
 
 .classpath
 .project
 .settings
+
+# OSX files #
+
+.DS.Store
